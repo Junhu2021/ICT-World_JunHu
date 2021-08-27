@@ -1,3 +1,28 @@
+##1.	Create a program that fulfils the following requirements:
+##
+##a)	Asks for the user’s last name.
+##
+##b)	Presents a list of toppings and asks the user to select toppings until the user selects the “Done” option.
+##•	Cheese
+##•	Pineapple
+##•	Pepperoni
+##•	Ham
+##•	Everything
+##•	Done (Finished selecting toppings)
+##
+##c)	Calculate the price based on the number of toppings
+##•	One topping = $8
+##•	Two toppings = $10
+##•	Three toppings = $12
+##•	Four toppings or Everything = $14
+##
+##d)	Prints to the screen the user’s last name, a listing of the toppings they chose, and the total price.
+##
+##e)	Remember to comment your code:
+##•	Name of programmer
+##•	Date program written
+##•	Short description of purpose of program
+
 ## Ask the user's last name
 lastName = input('Please input your last name : \n')
 ## define a funtion to return different types of toppings for the user to select
